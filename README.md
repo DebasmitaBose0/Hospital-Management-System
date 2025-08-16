@@ -92,9 +92,7 @@ The **Doctor Management System** is a **Java-based console application** designe
 
 ---
 
-## 🚀 Getting Started  
 
-### Prerequisites  
 - Install [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) (version 8 or higher).  
 - Set up environment variables (`JAVA_HOME` and `PATH`).  
 
